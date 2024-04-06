@@ -26,10 +26,10 @@ session_destroy();
             margin-left:43%;
         }
         .botao{
-            margin-left:6%;
+            margin-left:6.5%;
         }
         .fs-1{
-            margin-left:45%;
+            margin-left:46%;
             margin-top:5%;
         }
     </style>
